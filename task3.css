@@ -1,0 +1,190 @@
+.container
+{
+    height:230vh;
+    width:65vw;
+    margin:0 auto;
+    background:white;
+}
+.topbar
+{
+    height:75px;
+    width:63vw;
+    background-color: white;
+}
+.moq
+{
+    height: 55px;
+    width: 108px;
+    position: relative;
+    top: 10px;
+    left: 28px;
+}
+.navbar
+{
+    position: absolute;
+    top: 35px;
+    left: 496px;
+}
+.navbar a
+{
+    text-decoration: none;
+    color: black;
+    padding: 20px;
+    font-size: 13px;
+}
+button
+{
+    height: 36px;
+    width: 128px;
+    border-radius: 30px;
+    position: relative;
+    left: 568px;
+    top: -16px;
+    border: 1px solid gray;
+    background: transparent;
+}
+.fa 
+{
+    left: 698px;
+    bottom: 43px;
+    position: relative;
+}
+.box
+{
+    height: 278px;
+    width: 65vw;
+    background-color: #eef0f4;
+    position: relative;
+    bottom: 38px;
+}
+.head,.para
+{
+    text-align: center;
+    position: relative;
+    top:100px;
+}
+p
+{
+    color:#98a9b9;
+}
+.hori
+{
+    background-color: #fff;
+    height: 120px;
+    width: 63vw;
+    position: relative;
+    top: 177px;
+}
+.sub
+{
+    text-align: left;
+    position: relative;
+    top:50px;
+    left:20px;
+}
+.email
+{
+    position: relative;
+    left: 419px;
+    width: 219px;
+}
+.subs
+{
+    left: 463px;
+    position: relative;
+    width: 115px;
+    background-color: black;
+    color: white;
+    font-weight: 900;
+    font-size: 12px;
+    height: 30px;
+}
+.main
+{
+    height: 70vh;
+    width: 63vw;
+    /* background-color: coral; */
+    display: flex;
+    position: relative;
+    top: 47px;
+}
+.first {
+    flex: 2;
+    background-image: url('./whitepic.jpeg');
+    background-repeat: no-repeat;
+    border: 1px solid white;
+    background-size: cover;
+    background-color: black;
+    margin-right: 13px;
+    margin-left: 21px;
+}
+.second {
+    flex: 1
+}
+.subMain{
+    height: 70vh;
+    display: flex;
+    flex-direction: column;
+}
+.subFirst{
+    flex: 1;
+    background-image: url('./whitepic.jpeg');
+    background-repeat: no-repeat;
+    border: 1px solid white;
+    background-size: cover; 
+}
+.ma
+{
+    height:28vh;
+    width:63vw;
+    background-color:white;
+    display:flex;
+    position: relative;
+    top:69px;
+    right:1px;
+}
+.fi
+{
+    flex:1;
+    margin-left:21px;
+    /* border:1px solid black; */
+}
+.se
+{
+    flex:3;
+    /* border:1px solid black; */
+
+}
+.ma1
+{
+    height:28vh;
+    width:63vw;
+    background-color:white;
+    display:flex;
+    margin-top: 90px;
+}
+.but1
+{
+    position: relative;
+    bottom: 70px;
+    left:40px;
+}
+.se
+{
+    text-align: left;
+    padding-left:25px; 
+    padding-top: 15px;
+    font-size:15px;
+    padding-right:80px;
+}
+.air a
+{
+    position: relative;
+    bottom:36px;
+    left:249px;
+    color:black;
+}
+body
+{
+    background-color: black;
+}
